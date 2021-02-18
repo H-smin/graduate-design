@@ -1,0 +1,39 @@
+export default {
+    state:{
+        feature:[
+            {
+              name:'上衣',
+              url:'https://s10.mogucdn.com/mlcdn/c45406/181031_20c98cekk381c5i3ladb506e8g290_172x172.png',
+              link:'http://localhost:8080/category'
+            },
+            {
+              name:'裤子',
+              url:'https://s10.mogucdn.com/mlcdn/c45406/190908_4ac7i9ea448ej5j16eeh2gfii7hi6_224x224.png',
+              link:'http://localhost:8080/category'
+            },
+            {
+              name:'裙子',
+              url:'https://s10.mogucdn.com/mlcdn/c45406/181203_63cg95db7ifbg8e0aj2bfai3ga325_172x172.png',
+              link:'http://localhost:8080/category'
+            },
+            {
+              name:'套装',
+              url:'https://s10.mogucdn.com/mlcdn/c45406/200115_1dgli62l42hlcda1a1ag55i4l8ie1_172x172.jpg',
+              link:'http://localhost:8080/category'
+            },
+            {
+              name:'鞋子',
+              url:'https://s10.mogucdn.com/mlcdn/c45406/181031_353i8ki02gfl955alfi9k3i9j4i5h_172x172.png',
+              link:'http://localhost:8080/category'
+            },
+            {
+              name:'包包',
+              url:'https://s10.mogucdn.com/mlcdn/c45406/200309_6f03f5511fl8k9ccbh24jh956ld4c_224x224.png',
+              link:'http://localhost:8080/category'
+            }
+          ]
+    },
+    mutations:{
+
+    }
+}
